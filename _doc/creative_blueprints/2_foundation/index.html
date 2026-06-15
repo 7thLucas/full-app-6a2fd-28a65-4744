@@ -4,37 +4,57 @@
   .mode-landscape .sl-visual-panel { width: 45%; min-height: 0; }
   .mode-portrait .sl-foundation-layout { display: flex; flex-direction: column; min-height: 100%; }
   .mode-portrait .sl-content-panel { padding: 2rem 1.5rem; }
-  .mode-portrait .sl-visual-panel { min-height: 280px; }
+  .mode-portrait .sl-visual-panel { min-height: 240px; flex-shrink: 0; }
 </style>
 <section class="w-full h-full overflow-auto bg-white">
-  <div class="sl-foundation-layout">
-    <div class="sl-content-panel">
-      <div class="flex items-center justify-between mb-4">
-        <span class="inline-block text-xs font-semibold tracking-widest uppercase" style="color:#6366f1;">Foundation</span>
-        <span class="inline-flex items-center gap-1.5 px-2.5 py-1 border rounded-full" style="background-color:#6366f1; border-color:#6366f130;">
-          <span class="text-xs font-semibold" style="color:#ffffff;">Validated</span>
+  <div class="sl-foundation-layout h-full">
 
-        </span>
+    <!-- Content column -->
+    <div class="sl-content-panel">
+      <div class="mb-7">
+        <span class="text-xs font-bold tracking-widest uppercase" style="color:#7C3AED;">Why This Exists</span>
+        <h1 class="text-3xl font-black text-slate-900 leading-tight mt-2">
+          The Gap Nobody Is Closing.
+        </h1>
       </div>
-      <h1 class="text-3xl font-bold text-slate-900 leading-tight mb-8">Current AI systems lack emotional reasoning</h1>
-      <div class="space-y-5">
-        <div class="border-l-4 pl-4 relative" style="border-color:#F43F5E;">
-          <h2 class="text-sm font-semibold uppercase tracking-wide mb-1" style="color:#E11D48;">The Problem</h2>
-          <p class="text-slate-700 leading-relaxed text-sm">AI systems today process information but cannot grasp the emotional dimensions of human experience—context, intent, subtle meaning, and the feelings behind decisions remain invisible to them.</p>
+
+      <div class="space-y-4">
+        <!-- Problem -->
+        <div class="rounded-xl p-5" style="background:#FFF1F2; border:1px solid #FFE4E6;">
+          <h2 class="text-xs font-bold tracking-widest uppercase mb-2" style="color:#F43F5E;">The Problem</h2>
+          <p class="text-slate-700 leading-relaxed text-sm">
+            Modern AI tools are transactional and emotionally hollow. They process words and return answers, but cannot understand context, carry emotional weight, or connect with the person they are speaking to. Every interaction reinforces the same gap: this is a machine, not someone who genuinely cares.
+          </p>
+          <div class="flex flex-wrap gap-2 mt-3">
+            <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="color:#BE123C; background:#FFE4E6;">No emotional context</span>
+            <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="color:#BE123C; background:#FFE4E6;">Hollow, transactional replies</span>
+            <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="color:#BE123C; background:#FFE4E6;">Zero rapport over time</span>
+          </div>
         </div>
-        <div class="border-l-4 pl-4 relative" style="border-color:#6366f1;">
-          <h2 class="text-sm font-semibold uppercase tracking-wide mb-1" style="color:#6366f1;">The Solution</h2>
-          <p class="text-slate-700 leading-relaxed text-sm">Today&#x27;s AI excels at pattern recognition and data processing, but remains blind to the emotional context that drives human decision-making, communication, and connection. This creates a fundamental gap: machines that can&#x27;t feel can&#x27;t truly understand.</p>
+
+        <!-- Solution -->
+        <div class="rounded-xl p-5" style="background:#F5F3FF; border:1px solid #DDD6FE;">
+          <h2 class="text-xs font-bold tracking-widest uppercase mb-2" style="color:#7C3AED;">The Solution</h2>
+          <p class="text-slate-700 leading-relaxed text-sm">
+            An AI companion that bridges the gap between machine intelligence and human emotional reality. It reads emotional tone in real time, reasons with nuance and empathy, expresses its own emotional state to create mutual exchange, and builds lasting rapport by remembering how users feel over time.
+          </p>
+          <div class="flex flex-wrap gap-2 mt-3">
+            <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="color:#5B21B6; background:#EDE9FE;">Reads emotional tone</span>
+            <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="color:#5B21B6; background:#EDE9FE;">Empathetic reasoning</span>
+            <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="color:#5B21B6; background:#EDE9FE;">Builds lasting rapport</span>
+          </div>
         </div>
-        <div class="border-l-4 border-sky-500 pl-4 relative"><h2 class="text-sm font-semibold text-sky-600 uppercase tracking-wide mb-1">Target Audience</h2><p class="text-slate-700 leading-relaxed text-sm">AI researchers, product teams building conversational systems, enterprises seeking more human-centered automation</p></div>
-        <div class="border-l-4 border-amber-500 pl-4 relative"><h2 class="text-sm font-semibold text-amber-600 uppercase tracking-wide mb-1">Personal Motivation</h2><p class="text-slate-700 leading-relaxed text-sm">Creating machines that don&#x27;t just answer questions but understand what truly matters to people—their hopes, fears, and values.</p></div>
       </div>
-      <div class="mt-6 flex flex-wrap gap-2"><span class="px-3 py-1 bg-slate-100 text-slate-600 text-xs font-medium rounded-full">Emotional AI</span><span class="px-3 py-1 bg-slate-100 text-slate-600 text-xs font-medium rounded-full">Sentiment Analysis</span><span class="px-3 py-1 bg-slate-100 text-slate-600 text-xs font-medium rounded-full">Human-Centered AI</span><span class="px-3 py-1 bg-slate-100 text-slate-600 text-xs font-medium rounded-full">Cognitive Empathy</span><span class="px-3 py-1 bg-slate-100 text-slate-600 text-xs font-medium rounded-full">Machine Understanding</span></div>
-      <div class="mt-8"><data-attribution /></div>
     </div>
-    <div class="sl-visual-panel relative">
-      <img src="http://localhost:8001/common/image-generation?prompt=digital+mind+struggling+to+understand+human+emotion+isolated+cold+algorithmic+process&amp;keyspace=h2qid5fv&amp;user_id=4744" alt="visual" class="w-full h-full object-cover" />
-      <div class="absolute inset-0 bg-gradient-to-r from-white via-transparent to-transparent opacity-40"></div>
+
+    <!-- Visual column -->
+    <div class="sl-visual-panel relative overflow-hidden">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=Split%20visual%3A%20cold%20blue%20robotic%20circuitry%20on%20left%20dissolving%20into%20warm%20violet%20and%20rose%20human%20emotional%20connection%20on%20right%2C%20premium%20editorial%20photography%2C%20white%20background"
+        alt="Cold AI vs warm emotional AI"
+        style="width:100%; height:100%; object-fit:cover;"
+      />
     </div>
+
   </div>
 </section>
