@@ -1,0 +1,1 @@
+The ai which can think like a human having feelings emotions and
