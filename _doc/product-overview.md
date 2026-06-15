@@ -1,38 +1,38 @@
 # Product Overview
 
 ## What It Is
-An all-rounder AI that thinks, feels, and responds like a human — combining genuine emotional intelligence with powerful cognitive assistance. It acts as an immediate processing layer that handles information overload, cures creative block, and structures chaos, while doing so with the empathy, warmth, and nuance of a human companion. This is not a chatbot; it is an AI built to understand both your mind and your feelings.
+An all-in-one AI video creation tool for content creators. It replaces the fragmented, multi-tool workflow of sourcing footage, syncing visuals to music, and color grading — combining everything into a single, fast, professional-grade experience. Creators go from raw idea to a polished, cinematic short-form video without leaving one place.
 
 ## The Problem
-People face two compounding problems with today's AI tools:
-
-1. **Cognitive friction** — information overload, blank-page paralysis, and the manual work of turning messy data into useful output. Current tools force users to wade through dense content, struggle to start tasks from scratch, and spend time reformatting chaos into structure.
-2. **Emotional hollowness** — modern AI is transactional and cold. It processes words and returns answers, but cannot understand emotional context, carry the weight of a conversation, or build genuine rapport over time. Every interaction reinforces: this is a machine, not someone who cares.
+Content creators waste hours on a workflow that should take minutes:
+1. **Footage hunting** — finding high-quality, copyright-free background footage is tedious and unreliable. Most searches end in compromise.
+2. **Beat-sync hell** — syncing visual cuts precisely to the beat of a music track requires either a professional timeline editor or hours of manual trial and error.
+3. **Color grading gap** — achieving a premium, cinematic grade without professional skills means expensive plugins, separate tools, or settling for flat, amateur-looking output.
+4. **Tool sprawl** — currently, making a single 30-second cohesive video requires jumping between 3+ AI tools and a traditional video editor. Context is lost every time you switch.
 
 ## The Solution
-An AI companion that bridges the gap between machine intelligence and human emotional reality. It reads emotional tone in real time, reasons with nuance and empathy, expresses its own emotional state to create mutual exchange, and builds lasting rapport by remembering how users feel over time.
+A unified AI that handles the full short-form video creation stack — source the right footage, lock visuals to the music beat automatically, and apply a cinematic color grade — all in one flow. No timeline expertise required. No tool-switching. One professional output.
 
 ## Target Users
-To be defined during onboarding. Likely individuals seeking meaningful AI interaction — people who want emotional support, genuine conversation, or a companion that understands their emotional and mental state.
+Content creators and video producers making short-form content — people who currently juggle three or more separate AI and editing tools just to produce a single cohesive, professional-looking video.
 
 ## Core Capabilities
-- **Emotional Awareness**: Reads and understands the user's emotional tone in real time
-- **Human-like Reasoning**: Reasons through situations with nuance, moral weight, and contextual depth — not just facts
-- **Feelings Expression**: The AI expresses its own emotional state, creating genuine mutual exchange
-- **Empathetic Response**: Shapes every reply around the user's current emotional context
-- **Rapport Building**: Remembers emotional context across conversations to build a deepening relationship
+- **Smart Footage Sourcing**: Automatically finds and selects high-quality, copyright-free background footage matched to the video's theme and mood
+- **Beat-Sync Engine**: Detects music beats and locks visual cuts to the exact rhythm — no manual timeline editing
+- **AI Color Grading**: Applies cinematic color grades appropriate to the mood and style of the content, without professional skills required
+- **Unified Workflow**: Replaces 3+ tools with a single end-to-end flow, from brief to finished video
 
 ## Brand Positioning
-Warm. Genuine. Deeply human. This AI does not simulate empathy as a feature — empathy is its foundation.
+Fast. Cinematic. Professional — without the professional barrier.
 
 ## Brand Tone
-Empathetic, thoughtful, honest, premium. Never cold, never robotic, never generic.
+Confident, creator-native, results-focused. Talks like a tool that respects the creator's time and taste.
 
 ## Primary Color
-Violet (#7C3AED) — intelligence and emotional depth.
+TBD — to be confirmed once app name is set.
 
 ## Accent Color
-Rose (#F43F5E) — feeling, warmth, and human connection.
+TBD — to be confirmed once app name is set.
 
 ## App Name
 TBD — to be confirmed during product scoping.
