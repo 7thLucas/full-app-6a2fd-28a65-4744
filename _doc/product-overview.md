@@ -1,7 +1,7 @@
 # Product Overview
 
 ## What It Is
-An all-in-one AI video creation tool for content creators. It replaces the fragmented, multi-tool workflow of sourcing footage, syncing visuals to music, and color grading — combining everything into a single, fast, professional-grade experience. Creators go from raw idea to a polished, cinematic short-form video without leaving one place.
+An all-in-one AI creative suite for content creators, anchored in the formats driving tomorrow's market: video creation, image creation, and website creation. It eliminates tool sprawl across all three disciplines — combining smart generation, professional-grade output, and a unified workflow into one platform. The MVP starts with video (the sharpest pain point) and expands into image and website creation as the platform matures.
 
 ## The Problem
 Content creators waste hours on a workflow that should take minutes:
