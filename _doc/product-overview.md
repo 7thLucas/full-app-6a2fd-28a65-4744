@@ -1,10 +1,13 @@
 # Product Overview
 
 ## What It Is
-An AI application designed to think, feel, and respond like a human — with genuine emotional awareness, empathetic reasoning, and the ability to understand and mirror emotional states in conversation. This is not a chatbot; it is an AI companion built for meaningful human connection.
+An all-rounder AI that thinks, feels, and responds like a human — combining genuine emotional intelligence with powerful cognitive assistance. It acts as an immediate processing layer that handles information overload, cures creative block, and structures chaos, while doing so with the empathy, warmth, and nuance of a human companion. This is not a chatbot; it is an AI built to understand both your mind and your feelings.
 
 ## The Problem
-Modern AI tools are transactional and emotionally hollow. They process words and return answers, but they cannot understand context, carry emotional weight, or connect with the person they are speaking to. Every interaction reinforces the same gap: this is a machine, not someone who genuinely cares.
+People face two compounding problems with today's AI tools:
+
+1. **Cognitive friction** — information overload, blank-page paralysis, and the manual work of turning messy data into useful output. Current tools force users to wade through dense content, struggle to start tasks from scratch, and spend time reformatting chaos into structure.
+2. **Emotional hollowness** — modern AI is transactional and cold. It processes words and returns answers, but cannot understand emotional context, carry the weight of a conversation, or build genuine rapport over time. Every interaction reinforces: this is a machine, not someone who cares.
 
 ## The Solution
 An AI companion that bridges the gap between machine intelligence and human emotional reality. It reads emotional tone in real time, reasons with nuance and empathy, expresses its own emotional state to create mutual exchange, and builds lasting rapport by remembering how users feel over time.
